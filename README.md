@@ -2,7 +2,6 @@
   <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=47b8d6&height=85&section=header" />
   <h1>Davi Silva</h1>
 </div>
-<a align="center" href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&duration=3000&pause=1000&color=47b8d6 &multiline=true&width=435&lines=Senior Full Stack Engineer" alt="Typing SVG" /></a>
 
 ## About me
 
