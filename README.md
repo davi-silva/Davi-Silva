@@ -45,22 +45,4 @@
 
 ![Rust](https://img.shields.io/badge/rust-brown.svg?style=for-the-badge&logo=rust&logoColor=white)
 
-## GitHub Stats
-
-<a href="https://github.com/davi-silva">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=davi-silva&theme=dark&hide_langs_below=1" />
-</a>
-
-<br />
-
-<a href="https://github.com/davi-silva">
- <img align="center" src="https://github-readme-stats.vercel.app/api?username=davi-silva&show_icons=true&theme=dark&line_height=27" alt="Davi's github stats"/>
-</a>
-
-<br />
-
-<a href="https://github.com/davi-silva/photography">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=davi-silva&repo=photography&theme=dark" />
-</a>
-
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=47b8d6&height=80&section=footer" />
